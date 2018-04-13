@@ -1,16 +1,34 @@
 ---
 layout: post
-title: "Welcome to Chao's Little World"
+title: "A poor poem"
 date: 2018-04-11
-tags: [Misc]
+tags: [poem, love]
 comments: true
 ---
 
-Well, finally got to open my first page. 
+### A poor poem
 
-### References to Build This Page
-* Jonathan Mcglone: [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
-* Taylan Tatli: [Moon](https://taylantatli.github.io/Moon/)
-* Amanda Visconti: [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages).
-
-Powered by [GitHub](https://github.com)&[Jekyll](http://jekyllrb.com)
+Light in the night,  
+is my eye.  
+It leads my bike,  
+driving in the dark sky.  
+  
+I start to pray,  
+because of the rain.  
+Pray your coming,  
+and pray our dating.  
+  
+Your birthday I forget,  
+a situation I hate.  
+A song and a pet,  
+are out-of-date.  
+  
+A poem I write,  
+is different.  
+A present with the heart,  
+is important.  
+  
+Busy as I be,  
+Please forgive me.  
+Once the time we see,  
+Valentine's Day will everyday be!
