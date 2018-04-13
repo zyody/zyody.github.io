@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "A poor poem"
-date: 2018-04-11
-tags: [poem, love]
+date: 2018-04-13
+excerpt: "Light in the night,  
+is my eye.  
+It leads my bike,  
+driving in the dark sky."
+tags: [诗, 爱情, 程序员]
 comments: true
 ---
 
-### A poor poem
+### A poor poem (原创)
 
 Light in the night,  
 is my eye.  
