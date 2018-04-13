@@ -13,7 +13,7 @@ tag:
 comments: true
 ---  
       
-## A poor poem——Yu Zhu
+## A poor poem (原创)
 
 Light in the night,  
 is my eye.  
