@@ -13,8 +13,7 @@ tag:
 comments: true
 ---  
       
-## A poor poem
-by phd coder
+## A poor poem——Yu Zhu
 
 Light in the night,  
 is my eye.  
