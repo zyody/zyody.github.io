@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yu Zhu"
+title:  "Yu Zhu is a good boy"
 date:   2016-04-06
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
