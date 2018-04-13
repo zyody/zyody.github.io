@@ -12,8 +12,7 @@ tag:
 comments: true
 ---  
       
-## 诗
-by phd coder
+## 诗 (半原创)
 
 五年前，  
 我不是诗人，所以，只能够把爱你写进程序，  
