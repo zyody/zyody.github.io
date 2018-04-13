@@ -1,7 +1,7 @@
 # Site
-title:              Chao Huang
-bio:                'Research on AI in Health'
-description:        "PhD Student, CDRI, Zhejiang University, China"
+title:              Yu Zhu
+bio:                'Recommender System'
+description:        "PhD Student, Zhejiang University, China"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -11,7 +11,7 @@ locale:             en_US
 url:                https://zyody.github.io
 
 # Jekyll
-name:               Chao Huang # edited by Chao
+name:               Yu Zhu # edited by Chao
 permalink:          /blog/:year/:month/:day/:title # edited by Chao
 markdown:           kramdown
 paginate:           5 # edited by Chao
@@ -28,7 +28,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   Chao
+disqus_shortname:   Yu
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -43,7 +43,7 @@ disqus_shortname:   Chao
 linkedin:           CHAO HUANG
 facebook:           chao.huang.549668
 twitter:            huangmozhilv
-github-url:         https://github.com/huangmozhilv
+github-url:         https://github.com/zyody
 stackoverflow:      7730113/ccmango   # from a "http://stackoverflow.com/users/123456/username" link
 #xing:              username
 #instagram:         username
