@@ -6,7 +6,7 @@ tags: [poem, love]
 comments: true
 ---
 
-### A poor poem
+### A english poem
 
 Light in the night,  
 is my eye.  
