@@ -11,10 +11,10 @@ locale:             en_US
 url:                https://zyody.github.io
 
 # Jekyll
-name:               Yu Zhu # edited by Chao
-permalink:          /blog/:year/:month/:day/:title # edited by Chao
+name:               Yu Zhu # edited by Yu
+permalink:          /blog/:year/:month/:day/:title # edited by Yu
 markdown:           kramdown
-paginate:           5 # edited by Chao
+paginate:           5 # edited by Yu
 highlighter:        rouge
 kramdown:
   auto_ids:         true
@@ -39,8 +39,8 @@ disqus_shortname:   Yu
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-linkedin:           CHAO HUANG
+#email:              
+linkedin:           YU ZHU
 facebook:           chao.huang.549668
 twitter:            huangmozhilv
 github-url:         zyody
