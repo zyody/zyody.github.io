@@ -7,7 +7,7 @@ comments: false
 ---
 ## Personal Information
 
-Affiliation: State Key Laboratory of CAD&CG, Department of Computer Science and Technology, Zhejiang University  
+Affiliation: <a href="http://www.cad.zju.edu.cn/">State Key Laboratory of CAD&CG</a>, Department of Computer Science and Technology, Zhejiang University  
   
 Advisor: Prof. Xiaofei He and Prof. Deng Cai  
   
