@@ -50,13 +50,13 @@ E-mail: zy11120085 AT gmail DOT com; zhuyu_zju AT qq DOT com
   
 ## Competition&Patent&Intern&Award
   
-* 2016                   My team ranked 25/2125 in the Kaggle Competition: Home Depot Product Search Relevance.  
+* 2016　　　　　My team ranked 25/2125 in the Kaggle Competition: Home Depot Product Search Relevance.  
   
-* 2016                   Patent (Submitted): One Active Learning-based Recommendation Method for Addressing the Item Cold-start Problem.  
+* 2016　　　　　Patent (Submitted): One Active Learning-based Recommendation Method for Addressing the Item Cold-start Problem.  
   
-* 2017                   Intern: Algorithm Engineer in Alibaba.  
+* 2017　　　　　Intern: Algorithm Engineer in Alibaba.  
   
-* 2017                   National Scholarship.  
+* 2017　　　　　National Scholarship.  
   
   
 ## Technique skills
