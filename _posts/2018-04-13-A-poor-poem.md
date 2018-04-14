@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A poor poem"
+title: "A poor poem (原创)"
 date: 2018-04-13
 excerpt: "Light in the night,  
 is my eye.  
@@ -10,7 +10,7 @@ tags: [诗, 爱情, 程序员]
 comments: true
 ---
 
-## A poor poem (原创)
+## A poor poem
 
 Light in the night,  
 is my eye.  
