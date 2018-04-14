@@ -44,7 +44,7 @@ E-mail: zy11120085 AT gmail DOT com; zhuyu_zju AT qq DOT com
   
 ## Social Services
   
-* 2014-2017　　Invited reviewer of IEEE TKDE, IEEE TCYB, Neurocomputing.  
+* 2014-2017　　&nbsp;&nbsp;Invited reviewer of IEEE TKDE, IEEE TCYB, Neurocomputing.  
   
 * 2017　　　　　Invited sub-reviewer of AAAI 2017, IJCAI 2017, SDM 2017, CIKM 2017.  
   
