@@ -9,7 +9,7 @@ comments: false
 
 Affiliation: <a href="http://www.cad.zju.edu.cn/">State Key Laboratory of CAD&CG</a>, Department of Computer Science and Technology, Zhejiang University  
   
-Advisor: Prof. Xiaofei He and Prof. Deng Cai  
+Advisor: Prof. <a href="http://www.cad.zju.edu.cn/home/xiaofeihe/">Xiaofei He</a> and Prof. <a href="http://www.cad.zju.edu.cn/home/dengcai/">Deng Cai</a>  
   
 Research Interest: Machine Learning, Data Mining and Recommender Systems.  
   
@@ -20,14 +20,14 @@ E-mail: zy11120085 AT gmail DOT com; zhuyu_zju AT qq DOT com
 
 * 2013/09/01-present　　　&nbsp;&nbsp;&nbsp;Ph.D. candidate in Computer Science, Zhejiang University  
 
-* 2016/12/16-2017/06/19　　Visiting student in the University of California, Santa Barbara. My advisor is Prof. Xifeng Yan  
+* 2016/12/16-2017/06/19　　Visiting student in the University of California, Santa Barbara. My advisor is Prof. <a href="http://www.cs.ucsb.edu/~xyan/">Xifeng Yan</a>  
 
 * 2009/09/01-2013/06/01　　B.E in Zhejiang University  
   
   
 ## Papers
 
-* Yu Zhu, Hao Li, Yikang Liao, Beidou Wang, Ziyu Guan, Haifeng Liu, Deng Cai. What to Do Next: Modeling User Behaviors by Time-LSTM[C]. International Joint Conferences on Artificial Intelligence, 2017: 3602-3608. (IJCAI 2017) [PDF][Code]  
+* Yu Zhu, Hao Li, Yikang Liao, Beidou Wang, Ziyu Guan, Haifeng Liu, Deng Cai. What to Do Next: Modeling User Behaviors by Time-LSTM[C]. International Joint Conferences on Artificial Intelligence, 2017: 3602-3608. (IJCAI 2017) <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx6anV6aHV5dXxneDozYmZhZjVhMzY3NDkyZDIw">[PDF]</a><a href="https://github.com/DarryO/time_lstm">[Code]</a>  
 
 * Yu Zhu, Ziyu Guan, Shulong Tan, Haifeng Liu, Deng Cai, Xiaofei He. Heterogeneous Hypergraph Embedding for Document Recommendation[J]. Neurocomputing 2016: 150-162. [PDF]  
 
