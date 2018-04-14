@@ -18,7 +18,7 @@ E-mail: zy11120085 AT gmail DOT com; zhuyu_zju AT qq DOT com
   
 ## Education
 
-* 2013/09/01-present　　　&nbsp;Ph.D. candidate in Computer Science, Zhejiang University  
+* 2013/09/01-present　　　&nbsp;&nbsp;&nbsp;Ph.D. candidate in Computer Science, Zhejiang University  
 
 * 2016/12/16-2017/06/19　　Visiting student in the University of California, Santa Barbara. My advisor is Prof. Xifeng Yan  
 
