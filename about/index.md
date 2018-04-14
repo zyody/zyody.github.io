@@ -18,7 +18,7 @@ E-mail: zy11120085 AT gmail DOT com; zhuyu_zju AT qq DOT com
   
 ## Education
 
-* 2013/09/01-present　　　&nbsp;&nbsp;&nbsp;Ph.D. candidate in Computer Science, Zhejiang University  
+* 2013/09/01-present　　　&nbsp;&nbsp;Ph.D. candidate in Computer Science, Zhejiang University  
 
 * 2016/12/16-2017/06/19　　Visiting student in the University of California, Santa Barbara. My advisor is Prof. <a href="http://www.cs.ucsb.edu/~xyan/">Xifeng Yan</a>  
 
@@ -46,7 +46,7 @@ E-mail: zy11120085 AT gmail DOT com; zhuyu_zju AT qq DOT com
   
 ## Social Services
   
-* 2014-2017　　&nbsp;Invited reviewer of IEEE TKDE, IEEE TCYB, Neurocomputing.  
+* 2014-2017　　&nbsp;&nbsp;Invited reviewer of IEEE TKDE, IEEE TCYB, Neurocomputing.  
   
 * 2017　　　　　Invited sub-reviewer of AAAI 2017, IJCAI 2017, SDM 2017, CIKM 2017.  
   
