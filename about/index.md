@@ -25,7 +25,7 @@ E-mail: zy11120085 AT gmail DOT com; zhuyu_zju AT qq DOT com
 * 2009/09/01-2013/06/01　　B.E in Zhejiang University  
   
   
-## Papers
+## Papers (<a href="https://scholar.google.com.hk/citations?user=L5UkUFMAAAAJ&hl=en">Google Scholar</a>)
 
 * Yu Zhu, Hao Li, Yikang Liao, Beidou Wang, Ziyu Guan, Haifeng Liu, Deng Cai. What to Do Next: Modeling User Behaviors by Time-LSTM[C]. International Joint Conferences on Artificial Intelligence, 2017: 3602-3608. (IJCAI 2017) <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx6anV6aHV5dXxneDozYmZhZjVhMzY3NDkyZDIw">[PDF]</a><a href="https://github.com/DarryO/time_lstm">[Code]</a>  
 
