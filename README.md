@@ -1,1 +1,2 @@
-# Yu's Homepage
+# Homepage&Blog
+# Please visit https://zyody.github.io/
